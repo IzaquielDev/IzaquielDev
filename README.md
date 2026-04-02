@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Izaquiel!
 
-<!--
-**IzaquielDev/IzaquielDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação apaixonado por tecnologia
+🚀 Focado em Python, lógica de programação e aplicações práticas
+📚 Em constante evolução para atuar profissionalmente na área de TI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+* 🎯 Objetivo: trabalhar com desenvolvimento de software
+* 📖 Atualmente estudando: Python, lógica e projetos práticos
+* 🔥 Interesse em: tecnologia, programação e soluções reais
+
+---
+
+## 🛠️ Tecnologias
+
+* Python
+* Streamlit
+* Git e GitHub
+
+---
+
+## 🚀 Projetos
+
+🔹 **Orçamento de Madeiras**
+Aplicação em Streamlit para cálculo de materiais com base na metragem.
+
+👉 Em breve mais projetos...
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IzaquielDev\&show_icons=true\&theme=dark)
+
+---
+
+## 📫 Contato
+
+* 📧 Email: [izaquiel.monteiro.dev@gmail.com](mailto:izaquiel.monteiro.dev@gmail.com)
+
+---
+
+## ⚡ Frase
+
+> “Evoluindo um pouco todos os dias.”
