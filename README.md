@@ -65,3 +65,7 @@ Em constante evolução, aprendendo todos os dias.
 [izaquiel.monteiro.dev@gmail.com](mailto:izaquiel.monteiro.dev@gmail.com)
 
 [WhatsApp](https://wa.me/qr/MVUMGVV4L7MFM1)
+
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/IzaquielDev/IzaquielDev/blob/output/github-contribution-grid-snake-dark.svg)
