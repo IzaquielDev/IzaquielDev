@@ -66,6 +66,8 @@ Em constante evolução, aprendendo todos os dias.
 
 [WhatsApp](https://wa.me/qr/MVUMGVV4L7MFM1)
 
+---
+
 ## 🐍 Contribuições
 
-![Snake animation](https://github.com/IzaquielDev/IzaquielDev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/IzaquielDev/IzaquielDev/output/github-contribution-grid-snake.svg)
