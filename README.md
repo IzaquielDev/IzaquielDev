@@ -68,4 +68,4 @@ Em constante evolução, aprendendo todos os dias.
 
 ## 🐍 Contribuições
 
-![Snake animation](https://github.com/IzaquielDev/IzaquielDev/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/IzaquielDev/IzaquielDev/blob/output/github-contribution-grid-snake.svg)
