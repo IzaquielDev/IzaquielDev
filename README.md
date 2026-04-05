@@ -1,10 +1,12 @@
 # 👋 Olá, eu sou Izaquiel
 
-**`Desenvolvedor em formação`**
+**`Desenvolvedor de Sistemas`**
 
-Sou estudante de programação focado em Python, lógica de programação e desenvolvimento de aplicações práticas. Atualmente construindo projetos para evoluir e me preparar para atuar profissionalmente na área de TI.
+Desenvolvedor focado em Python e criação de aplicações práticas.
 
-Em constante evolução, aprendendo todos os dias.
+Atuo no desenvolvimento de sistemas simples, automações e ferramentas que resolvem problemas reais, utilizando lógica de programação e tecnologias como Streamlit.
+
+Evolução contínua através da prática e construção de projetos.
 
 ---
 
