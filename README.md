@@ -69,7 +69,7 @@ WhatsApp:
 [(87)99128-0549](https://wa.me/qr/MVUMGVV4L7MFM1)
 ---
 Perfil do LinkedIn:
-[LinkedIn](https://www.linkedin.com/in/izaquiel-monteiro-b92b23400/)
+[LinkedIn](https://www.linkedin.com/in/izaquiel-monteiro-dev/)
 ---
 
 ## 🐍 Contribuições
