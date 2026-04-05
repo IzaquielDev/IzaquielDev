@@ -4,7 +4,7 @@
 
 Desenvolvedor focado em Python e criação de aplicações práticas.
 
-Atuo no desenvolvimento de sistemas simples, automações e ferramentas que resolvem problemas reais, utilizando lógica de programação e tecnologias como Streamlit.
+Desenvolvo sistemas simples, automações e ferramentas que resolvem problemas reais, utilizando lógica de programação e tecnologias como Streamlit.
 
 Evolução contínua através da prática e construção de projetos.
 
