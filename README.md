@@ -34,7 +34,7 @@ Em constante evolução, aprendendo todos os dias.
 * **Orçamento de Madeiras**
   Aplicação em Streamlit para cálculo de materiais com base na metragem.
 
-  [Dispinível](https://github.com/IzaquielDev/app-madeiras)
+  [App de Orçamento de Materiais](https://app-madeiras.streamlit.app/)
 ---
 
 ### Estatísticas
