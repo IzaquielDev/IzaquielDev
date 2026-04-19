@@ -36,7 +36,7 @@ Evolução contínua através da prática e construção de projetos.
 * **Orçamento de Madeiras**
   Aplicação em Streamlit para cálculo de materiais com base na metragem.
 
-  [App de Orçamento de Materiais](https://app-madeiras.streamlit.app/)
+  [App de Orçamento de Materiais](https://orcamentomateriais.streamlit.app/)
 ---
 
 ### Estatísticas
