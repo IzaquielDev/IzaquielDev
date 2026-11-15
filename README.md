@@ -67,12 +67,6 @@ Evolução contínua através da prática e construção de projetos.
 Gmail:
 [izaquiel.monteiro.dev@gmail.com](mailto:izaquiel.monteiro.dev@gmail.com)
 ---
-WhatsApp:
-[(87)99128-0549](https://wa.me/qr/MVUMGVV4L7MFM1)
----
-Perfil do LinkedIn:
-[LinkedIn](https://www.linkedin.com/in/izaquiel-monteiro-dev/)
----
 
 ## 🐍 Contribuições
 
